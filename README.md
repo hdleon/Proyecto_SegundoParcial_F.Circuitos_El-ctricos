@@ -54,7 +54,21 @@ Realizar un circuito en escalera con dos interruptores conmutados
 
 ![image](https://user-images.githubusercontent.com/116777118/213483969-cce5afa3-dae4-4059-90d0-f823b0ce09a8.png)
 
+## Explicacion de funcionamiento
+
+Su función es permitir controlar un punto de luz desde dos interruptores diferentes. En este caso la fase debe pasar por los dos interruptores antes de dirigirse a la lámpara en cuestión, con la particularidad de que ambos interruptores deben estar unidos por una pareja de cables, que es lo que se permite que al abrir o cerrar cualquiera de las dos llaves, la luz pase de encendida a apagada y viceversa. 
+
+![image](https://user-images.githubusercontent.com/116777118/213503824-66fe8a8b-94b1-4550-a685-c087ed3d7495.png)
+
+![image](https://user-images.githubusercontent.com/116777118/213503890-3852b2c6-6ae9-4ca2-bc01-a49fd188ee49.png)
+
+La mejor forma de entender esto es con diagramas. En el primero vemos como la corriente no puede llegar hasta la lámpara porque el segundo interruptor se li impide. No obstante, si accionamos el primero, la corriente ya puede pasar, aunque no hayamos tocado el segundo. Si luego accionamos el segundo, vuelve a no llegar la corriente hasta su destino.
+
+A la hora de instalarlo hay que dirigir el cable de fase por ambas llaves (interruptores), para ello hay que unir las dos llaves con cables
+
 ## Video
+
+https://youtu.be/1ZKiCmL858Q
 
 ## Conclusiones
 
